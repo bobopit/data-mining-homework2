@@ -1,0 +1,689 @@
+item: ('Financial District/South Beach', 'otc alterations permit') 	, 0.100
+item: ('Financial District/South Beach', '8') 	, 0.100
+item: ('', 'Financial District/South Beach', '8') 	, 0.100
+item: ('', 'Financial District/South Beach', 'otc alterations permit') 	, 0.100
+item: ('Financial District/South Beach', '8', 'otc alterations permit') 	, 0.100
+item: ('', 'otc alterations permit', 'Financial District/South Beach', '8') 	, 0.100
+item: ('Financial District/South Beach', 'St') 	, 0.100
+item: ('', 'Financial District/South Beach', 'St') 	, 0.100
+item: ('Y', 'otc alterations permit', '2.0') 	, 0.101
+item: ('Y', '8', '2.0') 	, 0.101
+item: ('', 'Y', 'otc alterations permit', '2.0') 	, 0.101
+item: ('', 'Y', '8', '2.0') 	, 0.101
+item: ('otc alterations permit', 'Y', '8', '2.0') 	, 0.101
+item: ('', 'otc alterations permit', 'Y', '8', '2.0') 	, 0.101
+item: ('wood frame (5)', 'complete', 'Av') 	, 0.101
+item: ('5.0', 'complete', 'Av', 'wood frame (5)') 	, 0.101
+item: ('', 'complete', 'Av', 'wood frame (5)') 	, 0.101
+item: ('5.0', '', 'complete', 'wood frame (5)', 'Av') 	, 0.101
+item: ('8', '8.0', 'St') 	, 0.101
+item: ('8.0', 'St', 'otc alterations permit') 	, 0.101
+item: ('8.0', 'otc alterations permit', '8', 'St') 	, 0.101
+item: ('', '8.0', '8', 'St') 	, 0.101
+item: ('', '8.0', 'otc alterations permit', 'St') 	, 0.101
+item: ('', '8.0', 'otc alterations permit', 'St', '8') 	, 0.101
+item: ('issued', 'wood frame (5)', 'St') 	, 0.101
+item: ('', 'issued', 'wood frame (5)', 'St') 	, 0.101
+item: ('5.0', 'issued', 'wood frame (5)', 'St') 	, 0.101
+item: ('', '5.0', 'issued', 'wood frame (5)', 'St') 	, 0.101
+item: ('5.0', 'complete', 'Av') 	, 0.102
+item: ('', '5.0', 'complete', 'Av') 	, 0.102
+item: ('Y', '8') 	, 0.102
+item: ('Y', 'otc alterations permit') 	, 0.102
+item: ('', 'Y', 'otc alterations permit') 	, 0.102
+item: ('Y', '8', '') 	, 0.102
+item: ('Y', '8', 'otc alterations permit') 	, 0.102
+item: ('', 'otc alterations permit', 'Y', '8') 	, 0.102
+item: ('otc alterations permit', 'complete', 'Av') 	, 0.104
+item: ('8', 'complete', 'Av') 	, 0.104
+item: ('', 'complete', 'Av', '8') 	, 0.104
+item: ('', 'complete', 'Av', 'otc alterations permit') 	, 0.104
+item: ('complete', 'Av', 'otc alterations permit', '8') 	, 0.104
+item: ('', 'complete', 'otc alterations permit', 'Av', '8') 	, 0.104
+item: ('otc alterations permit', '6.0', 'St') 	, 0.104
+item: ('8', '6.0', 'St') 	, 0.104
+item: ('8', '6.0', 'otc alterations permit', 'St') 	, 0.104
+item: ('', '6.0', '8', 'St') 	, 0.104
+item: ('', '6.0', 'otc alterations permit', 'St') 	, 0.104
+item: ('', 'otc alterations permit', 'St', '6.0', '8') 	, 0.104
+item: ('Y', '2.0', 'St') 	, 0.105
+item: ('', 'Y', '2.0', 'St') 	, 0.105
+item: ('complete', 'wood frame (5)', 'St', '8', '2.0') 	, 0.105
+item: ('complete', 'otc alterations permit', 'wood frame (5)', 'St', '2.0') 	, 0.105
+item: ('5.0', 'complete', 'otc alterations permit', 'wood frame (5)', 'St', '2.0') 	, 0.105
+item: ('5.0', 'complete', 'wood frame (5)', 'St', '8', '2.0') 	, 0.105
+item: ('', 'complete', 'wood frame (5)', 'St', '8', '2.0') 	, 0.105
+item: ('', 'complete', 'otc alterations permit', 'wood frame (5)', 'St', '2.0') 	, 0.105
+item: ('complete', 'otc alterations permit', 'wood frame (5)', 'St', '8', '2.0') 	, 0.105
+item: ('5.0', '', 'complete', 'otc alterations permit', 'wood frame (5)', 'St', '2.0') 	, 0.105
+item: ('', 'complete', 'otc alterations permit', 'wood frame (5)', 'St', '8', '2.0') 	, 0.105
+item: ('5.0', '', 'complete', 'wood frame (5)', 'St', '8', '2.0') 	, 0.105
+item: ('5.0', 'complete', 'otc alterations permit', 'wood frame (5)', 'St', '8', '2.0') 	, 0.105
+item: ('5.0', '', 'complete', 'otc alterations permit', 'wood frame (5)', 'St', '8', '2.0') 	, 0.105
+item: ('Y', 'St') 	, 0.105
+item: ('', 'Y', 'St') 	, 0.105
+item: ('otc alterations permit', '2.0', '3.0') 	, 0.106
+item: ('8', '2.0', '3.0') 	, 0.106
+item: ('', '3.0', '8', '2.0') 	, 0.106
+item: ('', '3.0', 'otc alterations permit', '2.0') 	, 0.106
+item: ('3.0', 'otc alterations permit', '8', '2.0') 	, 0.106
+item: ('', 'otc alterations permit', '3.0', '8', '2.0') 	, 0.106
+item: ('constr type 1', 'otc alterations permit', '2.0', 'St') 	, 0.107
+item: ('constr type 1', '8', '2.0', 'St') 	, 0.107
+item: ('2.0', 'otc alterations permit', 'St', '8', 'constr type 1') 	, 0.107
+item: ('1.0', 'otc alterations permit', 'constr type 1', 'St', '2.0') 	, 0.107
+item: ('', 'St', 'constr type 1', '8', '2.0') 	, 0.107
+item: ('1.0', 'constr type 1', 'St', '8', '2.0') 	, 0.107
+item: ('', 'otc alterations permit', 'constr type 1', 'St', '2.0') 	, 0.107
+item: ('', '1.0', 'St', 'constr type 1', '8', '2.0') 	, 0.107
+item: ('', 'otc alterations permit', 'constr type 1', 'St', '8', '2.0') 	, 0.107
+item: ('', '1.0', 'otc alterations permit', 'St', 'constr type 1', '2.0') 	, 0.107
+item: ('1.0', 'otc alterations permit', 'constr type 1', 'St', '8', '2.0') 	, 0.107
+item: ('', '1.0', 'otc alterations permit', 'constr type 1', 'St', '8', '2.0') 	, 0.107
+item: ('2.0', '3.0', 'St') 	, 0.108
+item: ('', '3.0', '2.0', 'St') 	, 0.108
+item: ('5.0', 'complete', 'otc alterations permit', 'St', '2.0') 	, 0.108
+item: ('5.0', 'complete', 'St', '8', '2.0') 	, 0.108
+item: ('5.0', 'complete', 'otc alterations permit', 'St', '8', '2.0') 	, 0.108
+item: ('', '5.0', 'complete', 'St', '8', '2.0') 	, 0.108
+item: ('5.0', '', 'complete', 'otc alterations permit', 'St', '2.0') 	, 0.108
+item: ('5.0', '', 'complete', 'otc alterations permit', 'St', '8', '2.0') 	, 0.108
+item: ('otc alterations permit', '6.0') 	, 0.110
+item: ('8', '6.0') 	, 0.110
+item: ('', '8', '6.0') 	, 0.110
+item: ('', 'otc alterations permit', '6.0') 	, 0.110
+item: ('8', '6.0', 'otc alterations permit') 	, 0.110
+item: ('', 'otc alterations permit', '8', '6.0') 	, 0.110
+item: ('complete', 'Av') 	, 0.110
+item: ('', 'complete', 'Av') 	, 0.110
+item: ('Financial District/South Beach',) 	, 0.110
+item: ('', 'Financial District/South Beach') 	, 0.110
+item: ('5.0', 'issued', '8', 'St') 	, 0.110
+item: ('5.0', 'issued', 'otc alterations permit', 'St') 	, 0.110
+item: ('', '5.0', 'issued', 'St', 'otc alterations permit') 	, 0.110
+item: ('5.0', 'issued', 'St', 'otc alterations permit', '8') 	, 0.110
+item: ('', '5.0', 'issued', 'St', '8') 	, 0.110
+item: ('', '5.0', 'otc alterations permit', 'St', 'issued', '8') 	, 0.110
+item: ('1.0', 'otc alterations permit', '2.0', 'St') 	, 0.112
+item: ('1.0', '8', '2.0', 'St') 	, 0.112
+item: ('', '1.0', 'otc alterations permit', 'St', '2.0') 	, 0.112
+item: ('', '1.0', 'St', '8', '2.0') 	, 0.112
+item: ('1.0', 'otc alterations permit', 'St', '8', '2.0') 	, 0.112
+item: ('', '1.0', 'otc alterations permit', 'St', '8', '2.0') 	, 0.112
+item: ('8.0', 'St') 	, 0.112
+item: ('', '8.0', 'St') 	, 0.112
+item: ('complete', '0.0', 'wood frame (5)', 'St', 'otc alterations permit') 	, 0.114
+item: ('complete', '0.0', 'wood frame (5)', 'St', '8') 	, 0.114
+item: ('', 'complete', '0.0', 'wood frame (5)', 'St', '8') 	, 0.114
+item: ('', 'complete', '0.0', 'wood frame (5)', 'St', 'otc alterations permit') 	, 0.114
+item: ('5.0', 'complete', 'otc alterations permit', 'wood frame (5)', 'St', '0.0') 	, 0.114
+item: ('complete', 'otc alterations permit', 'wood frame (5)', 'St', '0.0', '8') 	, 0.114
+item: ('5.0', 'complete', '0.0', 'wood frame (5)', 'St', '8') 	, 0.114
+item: ('5.0', '', 'complete', '0.0', 'wood frame (5)', 'St', '8') 	, 0.114
+item: ('', '5.0', 'complete', 'otc alterations permit', 'wood frame (5)', 'St', '0.0') 	, 0.114
+item: ('5.0', 'complete', '0.0', 'wood frame (5)', 'St', 'otc alterations permit', '8') 	, 0.114
+item: ('', 'complete', 'otc alterations permit', 'wood frame (5)', 'St', '0.0', '8') 	, 0.114
+item: ('5.0', '', 'complete', '0.0', 'wood frame (5)', 'St', 'otc alterations permit', '8') 	, 0.114
+item: ('complete', '0.0', 'wood frame (5)', 'St') 	, 0.115
+item: ('5.0', 'complete', '0.0', 'wood frame (5)', 'St') 	, 0.115
+item: ('', 'complete', '0.0', 'wood frame (5)', 'St') 	, 0.115
+item: ('5.0', '', 'complete', '0.0', 'wood frame (5)', 'St') 	, 0.115
+item: ('5.0', 'complete', '0.0', 'St', '8') 	, 0.116
+item: ('5.0', 'complete', '0.0', 'St', 'otc alterations permit') 	, 0.116
+item: ('5.0', 'complete', 'otc alterations permit', 'St', '0.0', '8') 	, 0.116
+item: ('', '5.0', 'complete', '0.0', 'St', 'otc alterations permit') 	, 0.116
+item: ('', '5.0', 'complete', '0.0', 'St', '8') 	, 0.116
+item: ('', '5.0', 'complete', 'otc alterations permit', 'St', '0.0', '8') 	, 0.116
+item: ('8', '1.0', 'complete') 	, 0.117
+item: ('otc alterations permit', '1.0', 'complete') 	, 0.117
+item: ('', '1.0', 'complete', '8') 	, 0.117
+item: ('1.0', 'complete', 'otc alterations permit', '8') 	, 0.117
+item: ('', '1.0', 'complete', 'otc alterations permit') 	, 0.117
+item: ('', '1.0', 'complete', 'otc alterations permit', '8') 	, 0.117
+item: ('8', 'constr type 1', 'St') 	, 0.117
+item: ('otc alterations permit', 'St', 'constr type 1') 	, 0.117
+item: ('1.0', 'otc alterations permit', 'St', 'constr type 1') 	, 0.117
+item: ('otc alterations permit', '8', 'constr type 1', 'St') 	, 0.117
+item: ('', 'otc alterations permit', 'constr type 1', 'St') 	, 0.117
+item: ('', '8', 'St', 'constr type 1') 	, 0.117
+item: ('1.0', '8', 'St', 'constr type 1') 	, 0.117
+item: ('1.0', 'otc alterations permit', 'constr type 1', '8', 'St') 	, 0.117
+item: ('', 'otc alterations permit', 'St', '8', 'constr type 1') 	, 0.117
+item: ('', '1.0', 'St', '8', 'constr type 1') 	, 0.117
+item: ('', '1.0', 'otc alterations permit', 'constr type 1', 'St') 	, 0.117
+item: ('', '1.0', 'otc alterations permit', 'St', '8', 'constr type 1') 	, 0.117
+item: ('5.0', 'complete', '0.0', 'St') 	, 0.117
+item: ('5.0', '', 'complete', '0.0', 'St') 	, 0.117
+item: ('complete', '2.0', 'wood frame (5)', 'St') 	, 0.118
+item: ('', 'complete', 'wood frame (5)', 'St', '2.0') 	, 0.118
+item: ('5.0', 'complete', 'wood frame (5)', 'St', '2.0') 	, 0.118
+item: ('5.0', '', 'complete', 'wood frame (5)', 'St', '2.0') 	, 0.118
+item: ('St', '6.0') 	, 0.119
+item: ('', '6.0', 'St') 	, 0.119
+item: ('8', '2.0', 'constr type 1') 	, 0.119
+item: ('otc alterations permit', '2.0', 'constr type 1') 	, 0.119
+item: ('', 'otc alterations permit', '2.0', 'constr type 1') 	, 0.119
+item: ('', '8', '2.0', 'constr type 1') 	, 0.119
+item: ('1.0', '8', '2.0', 'constr type 1') 	, 0.119
+item: ('1.0', 'otc alterations permit', '2.0', 'constr type 1') 	, 0.119
+item: ('otc alterations permit', '8', '2.0', 'constr type 1') 	, 0.119
+item: ('', 'otc alterations permit', 'constr type 1', '8', '2.0') 	, 0.119
+item: ('', '1.0', 'constr type 1', '8', '2.0') 	, 0.119
+item: ('', '1.0', 'otc alterations permit', 'constr type 1', '2.0') 	, 0.119
+item: ('1.0', 'otc alterations permit', 'constr type 1', '8', '2.0') 	, 0.119
+item: ('', '1.0', 'otc alterations permit', 'constr type 1', '8', '2.0') 	, 0.119
+item: ('St', '2.0', 'constr type 1') 	, 0.120
+item: ('St', '1.0', '2.0', 'constr type 1') 	, 0.120
+item: ('', '2.0', 'constr type 1', 'St') 	, 0.120
+item: ('', '1.0', 'constr type 1', 'St', '2.0') 	, 0.120
+item: ('issued', '8', '2.0', 'St') 	, 0.121
+item: ('issued', 'otc alterations permit', '2.0', 'St') 	, 0.121
+item: ('', 'issued', 'St', 'otc alterations permit', '2.0') 	, 0.121
+item: ('', 'issued', 'St', '8', '2.0') 	, 0.121
+item: ('issued', 'St', 'otc alterations permit', '8', '2.0') 	, 0.121
+item: ('', 'issued', 'St', 'otc alterations permit', '8', '2.0') 	, 0.121
+item: ('5.0', 'complete', '2.0', 'St') 	, 0.122
+item: ('5.0', '', 'complete', 'St', '2.0') 	, 0.122
+item: ('8.0', 'otc alterations permit') 	, 0.122
+item: ('8.0', '8') 	, 0.122
+item: ('', '8.0', '8') 	, 0.122
+item: ('8', '8.0', 'otc alterations permit') 	, 0.122
+item: ('', '8.0', 'otc alterations permit') 	, 0.122
+item: ('', '8.0', 'otc alterations permit', '8') 	, 0.122
+item: ('5.0', 'issued', 'St') 	, 0.123
+item: ('', '5.0', 'issued', 'St') 	, 0.123
+item: ('1.0', 'complete') 	, 0.124
+item: ('', '1.0', 'complete') 	, 0.124
+item: ('6.0',) 	, 0.125
+item: ('', '6.0') 	, 0.125
+item: ('2.0', '3.0') 	, 0.125
+item: ('', '2.0', '3.0') 	, 0.125
+item: ('2.0', '1.0', 'St') 	, 0.127
+item: ('', '1.0', '2.0', 'St') 	, 0.127
+item: ('complete', '0.0', 'otc alterations permit', 'St') 	, 0.129
+item: ('complete', '0.0', '8', 'St') 	, 0.129
+item: ('', 'complete', '0.0', 'St', 'otc alterations permit') 	, 0.129
+item: ('', 'complete', '0.0', 'St', '8') 	, 0.129
+item: ('complete', 'otc alterations permit', 'St', '0.0', '8') 	, 0.129
+item: ('', 'complete', '0.0', 'St', 'otc alterations permit', '8') 	, 0.129
+item: ('8', 'constr type 1') 	, 0.130
+item: ('otc alterations permit', 'constr type 1') 	, 0.130
+item: ('', '8', 'constr type 1') 	, 0.130
+item: ('8', '1.0', 'constr type 1') 	, 0.130
+item: ('otc alterations permit', '1.0', 'constr type 1') 	, 0.130
+item: ('8', 'constr type 1', 'otc alterations permit') 	, 0.130
+item: ('', 'otc alterations permit', 'constr type 1') 	, 0.130
+item: ('1.0', 'otc alterations permit', '8', 'constr type 1') 	, 0.130
+item: ('', '1.0', 'otc alterations permit', 'constr type 1') 	, 0.130
+item: ('', 'otc alterations permit', '8', 'constr type 1') 	, 0.130
+item: ('', '1.0', '8', 'constr type 1') 	, 0.130
+item: ('', '1.0', 'otc alterations permit', 'constr type 1', '8') 	, 0.130
+item: ('0.0', 'complete', 'St') 	, 0.130
+item: ('', 'complete', '0.0', 'St') 	, 0.130
+item: ('constr type 1', 'St') 	, 0.131
+item: ('', 'constr type 1', 'St') 	, 0.131
+item: ('constr type 1', '1.0', 'St') 	, 0.131
+item: ('', '1.0', 'constr type 1', 'St') 	, 0.131
+item: ('otc alterations permit', '1.0', 'St') 	, 0.131
+item: ('8', '1.0', 'St') 	, 0.131
+item: ('', '1.0', 'otc alterations permit', 'St') 	, 0.131
+item: ('', '1.0', '8', 'St') 	, 0.131
+item: ('1.0', '8', 'otc alterations permit', 'St') 	, 0.131
+item: ('', '1.0', 'otc alterations permit', 'St', '8') 	, 0.131
+item: ('8.0',) 	, 0.135
+item: ('', '8.0') 	, 0.135
+item: ('2.0', 'constr type 1') 	, 0.135
+item: ('2.0', '1.0', 'constr type 1') 	, 0.135
+item: ('', '2.0', 'constr type 1') 	, 0.135
+item: ('', '1.0', '2.0', 'constr type 1') 	, 0.135
+item: ('Y', '2.0') 	, 0.138
+item: ('Y', '', '2.0') 	, 0.138
+item: ('otc alterations permit', '2.0', '1.0') 	, 0.138
+item: ('8', '2.0', '1.0') 	, 0.138
+item: ('', '1.0', '8', '2.0') 	, 0.138
+item: ('', '1.0', 'otc alterations permit', '2.0') 	, 0.138
+item: ('1.0', 'otc alterations permit', '8', '2.0') 	, 0.138
+item: ('', '1.0', 'otc alterations permit', '8', '2.0') 	, 0.138
+item: ('otc alterations permit', '3.0', 'St') 	, 0.138
+item: ('8', '3.0', 'St') 	, 0.138
+item: ('3.0', 'otc alterations permit', '8', 'St') 	, 0.138
+item: ('', '3.0', '8', 'St') 	, 0.138
+item: ('', '3.0', 'otc alterations permit', 'St') 	, 0.138
+item: ('', 'otc alterations permit', 'St', '3.0', '8') 	, 0.138
+item: ('Y',) 	, 0.141
+item: ('', 'Y') 	, 0.141
+item: ('issued', '2.0', 'St') 	, 0.142
+item: ('', 'issued', '2.0', 'St') 	, 0.142
+item: ('otc alterations permit', 'wood frame (5)', 'issued') 	, 0.146
+item: ('8', 'wood frame (5)', 'issued') 	, 0.146
+item: ('', 'issued', '8', 'wood frame (5)') 	, 0.146
+item: ('', 'otc alterations permit', 'issued', 'wood frame (5)') 	, 0.146
+item: ('5.0', '8', 'issued', 'wood frame (5)') 	, 0.146
+item: ('8', 'issued', 'otc alterations permit', 'wood frame (5)') 	, 0.146
+item: ('5.0', 'issued', 'otc alterations permit', 'wood frame (5)') 	, 0.146
+item: ('5.0', '', 'otc alterations permit', 'wood frame (5)', 'issued') 	, 0.146
+item: ('', 'otc alterations permit', 'wood frame (5)', 'issued', '8') 	, 0.146
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', 'issued', '8') 	, 0.146
+item: ('', '5.0', 'issued', 'wood frame (5)', '8') 	, 0.146
+item: ('5.0', '', 'issued', 'wood frame (5)', 'otc alterations permit', '8') 	, 0.146
+item: ('1.0', 'St') 	, 0.146
+item: ('', '1.0', 'St') 	, 0.146
+item: ('constr type 1',) 	, 0.146
+item: ('1.0', 'constr type 1') 	, 0.146
+item: ('', 'constr type 1') 	, 0.146
+item: ('', '1.0', 'constr type 1') 	, 0.146
+item: ('otc alterations permit', 'wood frame (5)', 'Av') 	, 0.147
+item: ('8', 'wood frame (5)', 'Av') 	, 0.147
+item: ('', 'Av', '8', 'wood frame (5)') 	, 0.147
+item: ('', 'Av', 'otc alterations permit', 'wood frame (5)') 	, 0.147
+item: ('5.0', 'Av', 'otc alterations permit', 'wood frame (5)') 	, 0.147
+item: ('8', 'Av', 'otc alterations permit', 'wood frame (5)') 	, 0.147
+item: ('5.0', 'Av', '8', 'wood frame (5)') 	, 0.147
+item: ('', '5.0', 'wood frame (5)', 'Av', '8') 	, 0.147
+item: ('', 'otc alterations permit', 'wood frame (5)', 'Av', '8') 	, 0.147
+item: ('5.0', '', 'otc alterations permit', 'wood frame (5)', 'Av') 	, 0.147
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', 'Av', '8') 	, 0.147
+item: ('', '5.0', 'otc alterations permit', 'wood frame (5)', 'Av', '8') 	, 0.147
+item: ('5.0', '8', 'Av') 	, 0.152
+item: ('5.0', 'otc alterations permit', 'Av') 	, 0.152
+item: ('5.0', 'otc alterations permit', '8', 'Av') 	, 0.152
+item: ('', '5.0', 'Av', 'otc alterations permit') 	, 0.152
+item: ('', '5.0', 'Av', '8') 	, 0.152
+item: ('5.0', '', 'otc alterations permit', 'Av', '8') 	, 0.152
+item: ('3.0', 'St') 	, 0.155
+item: ('', '3.0', 'St') 	, 0.155
+item: ('issued', '2.0', 'otc alterations permit') 	, 0.157
+item: ('issued', '2.0', '8') 	, 0.157
+item: ('', '8', 'issued', '2.0') 	, 0.157
+item: ('', 'otc alterations permit', 'issued', '2.0') 	, 0.157
+item: ('issued', 'otc alterations permit', '8', '2.0') 	, 0.157
+item: ('', 'issued', 'otc alterations permit', '8', '2.0') 	, 0.157
+item: ('2.0', '1.0') 	, 0.159
+item: ('', '2.0', '1.0') 	, 0.159
+item: ('otc alterations permit', '3.0') 	, 0.160
+item: ('8', '3.0') 	, 0.160
+item: ('', '8', '3.0') 	, 0.160
+item: ('', 'otc alterations permit', '3.0') 	, 0.160
+item: ('8', '3.0', 'otc alterations permit') 	, 0.160
+item: ('', '3.0', 'otc alterations permit', '8') 	, 0.160
+item: ('complete', 'otc alterations permit', '2.0', 'wood frame (5)') 	, 0.160
+item: ('complete', '8', '2.0', 'wood frame (5)') 	, 0.160
+item: ('', 'complete', 'otc alterations permit', 'wood frame (5)', '2.0') 	, 0.160
+item: ('', 'complete', 'wood frame (5)', '8', '2.0') 	, 0.160
+item: ('5.0', 'complete', 'otc alterations permit', 'wood frame (5)', '2.0') 	, 0.160
+item: ('complete', 'otc alterations permit', 'wood frame (5)', '8', '2.0') 	, 0.160
+item: ('5.0', 'complete', 'wood frame (5)', '8', '2.0') 	, 0.160
+item: ('5.0', 'complete', 'otc alterations permit', 'wood frame (5)', '8', '2.0') 	, 0.160
+item: ('', '5.0', 'complete', 'otc alterations permit', 'wood frame (5)', '2.0') 	, 0.160
+item: ('', 'complete', 'otc alterations permit', 'wood frame (5)', '8', '2.0') 	, 0.160
+item: ('', '5.0', 'complete', 'wood frame (5)', '8', '2.0') 	, 0.160
+item: ('5.0', '', 'complete', 'otc alterations permit', 'wood frame (5)', '8', '2.0') 	, 0.160
+item: ('5.0', 'complete', '8', '2.0') 	, 0.164
+item: ('5.0', 'complete', 'otc alterations permit', '2.0') 	, 0.164
+item: ('5.0', 'complete', 'otc alterations permit', '8', '2.0') 	, 0.164
+item: ('5.0', '', 'complete', '8', '2.0') 	, 0.164
+item: ('5.0', '', 'complete', 'otc alterations permit', '2.0') 	, 0.164
+item: ('5.0', '', 'complete', 'otc alterations permit', '8', '2.0') 	, 0.164
+item: ('wood frame (5)', 'Av') 	, 0.164
+item: ('', 'wood frame (5)', 'Av') 	, 0.164
+item: ('5.0', 'wood frame (5)', 'Av') 	, 0.164
+item: ('', '5.0', 'Av', 'wood frame (5)') 	, 0.164
+item: ('issued', 'wood frame (5)') 	, 0.167
+item: ('5.0', 'issued', 'wood frame (5)') 	, 0.167
+item: ('', 'issued', 'wood frame (5)') 	, 0.167
+item: ('5.0', '', 'issued', 'wood frame (5)') 	, 0.167
+item: ('otc alterations permit', '0.0', 'wood frame (5)', 'St') 	, 0.167
+item: ('8', '0.0', 'wood frame (5)', 'St') 	, 0.167
+item: ('', '0.0', 'wood frame (5)', 'St', 'otc alterations permit') 	, 0.167
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', 'St', '0.0') 	, 0.167
+item: ('otc alterations permit', 'wood frame (5)', 'St', '0.0', '8') 	, 0.167
+item: ('5.0', '0.0', 'wood frame (5)', 'St', '8') 	, 0.167
+item: ('', '0.0', 'wood frame (5)', 'St', '8') 	, 0.167
+item: ('', '0.0', 'wood frame (5)', 'St', 'otc alterations permit', '8') 	, 0.167
+item: ('5.0', '', '0.0', 'wood frame (5)', 'St', '8') 	, 0.167
+item: ('', '5.0', '0.0', 'wood frame (5)', 'St', 'otc alterations permit') 	, 0.167
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', 'St', '0.0', '8') 	, 0.167
+item: ('', '5.0', 'otc alterations permit', 'wood frame (5)', 'St', '0.0', '8') 	, 0.167
+item: ('0.0', 'wood frame (5)', 'St') 	, 0.169
+item: ('', '0.0', 'wood frame (5)', 'St') 	, 0.169
+item: ('5.0', '0.0', 'wood frame (5)', 'St') 	, 0.169
+item: ('', '5.0', '0.0', 'wood frame (5)', 'St') 	, 0.169
+item: ('5.0', 'Av') 	, 0.169
+item: ('5.0', '', 'Av') 	, 0.169
+item: ('5.0', '0.0', '8', 'St') 	, 0.170
+item: ('5.0', 'otc alterations permit', '0.0', 'St') 	, 0.170
+item: ('5.0', 'otc alterations permit', 'St', '0.0', '8') 	, 0.170
+item: ('5.0', '', '0.0', 'St', '8') 	, 0.170
+item: ('5.0', '', 'otc alterations permit', 'St', '0.0') 	, 0.170
+item: ('5.0', '', 'otc alterations permit', 'St', '0.0', '8') 	, 0.170
+item: ('5.0', 'issued', '8') 	, 0.171
+item: ('5.0', 'issued', 'otc alterations permit') 	, 0.171
+item: ('5.0', 'issued', 'otc alterations permit', '8') 	, 0.171
+item: ('', '5.0', 'otc alterations permit', 'issued') 	, 0.171
+item: ('', '5.0', 'issued', '8') 	, 0.171
+item: ('5.0', '', 'otc alterations permit', 'issued', '8') 	, 0.171
+item: ('5.0', '0.0', 'St') 	, 0.171
+item: ('5.0', '', '0.0', 'St') 	, 0.171
+item: ('otc alterations permit', '2.0', 'wood frame (5)', 'St') 	, 0.176
+item: ('8', '2.0', 'wood frame (5)', 'St') 	, 0.176
+item: ('', 'wood frame (5)', 'St', '8', '2.0') 	, 0.176
+item: ('otc alterations permit', 'wood frame (5)', 'St', '8', '2.0') 	, 0.176
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', 'St', '2.0') 	, 0.176
+item: ('5.0', 'wood frame (5)', 'St', '8', '2.0') 	, 0.176
+item: ('', 'otc alterations permit', 'wood frame (5)', 'St', '2.0') 	, 0.176
+item: ('', '5.0', 'wood frame (5)', 'St', '8', '2.0') 	, 0.176
+item: ('', 'otc alterations permit', 'wood frame (5)', 'St', '8', '2.0') 	, 0.176
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', 'St', '8', '2.0') 	, 0.176
+item: ('', '5.0', 'otc alterations permit', 'wood frame (5)', 'St', '2.0') 	, 0.176
+item: ('', '5.0', 'otc alterations permit', 'wood frame (5)', 'St', '8', '2.0') 	, 0.176
+item: ('2.0', 'wood frame (5)', 'complete') 	, 0.180
+item: ('', 'complete', '2.0', 'wood frame (5)') 	, 0.180
+item: ('5.0', 'complete', '2.0', 'wood frame (5)') 	, 0.180
+item: ('', '5.0', 'complete', 'wood frame (5)', '2.0') 	, 0.180
+item: ('3.0',) 	, 0.180
+item: ('', '3.0') 	, 0.180
+item: ('5.0', '8', '2.0', 'St') 	, 0.181
+item: ('5.0', 'otc alterations permit', '2.0', 'St') 	, 0.181
+item: ('', '5.0', 'St', '8', '2.0') 	, 0.181
+item: ('', '5.0', 'otc alterations permit', 'St', '2.0') 	, 0.181
+item: ('5.0', 'otc alterations permit', 'St', '8', '2.0') 	, 0.181
+item: ('', '5.0', 'otc alterations permit', 'St', '8', '2.0') 	, 0.181
+item: ('5.0', '2.0', 'complete') 	, 0.184
+item: ('', '5.0', 'complete', '2.0') 	, 0.184
+item: ('issued', '2.0') 	, 0.188
+item: ('', 'issued', '2.0') 	, 0.188
+item: ('otc alterations permit', '1.0') 	, 0.190
+item: ('8', '1.0') 	, 0.190
+item: ('', 'otc alterations permit', '1.0') 	, 0.190
+item: ('', '8', '1.0') 	, 0.190
+item: ('8', '1.0', 'otc alterations permit') 	, 0.190
+item: ('', '1.0', '8', 'otc alterations permit') 	, 0.190
+item: ('otc alterations permit', '0.0', 'St') 	, 0.190
+item: ('0.0', '8', 'St') 	, 0.190
+item: ('8', '0.0', 'otc alterations permit', 'St') 	, 0.190
+item: ('', '8', '0.0', 'St') 	, 0.190
+item: ('', 'otc alterations permit', '0.0', 'St') 	, 0.190
+item: ('', 'otc alterations permit', 'St', '0.0', '8') 	, 0.190
+item: ('5.0', 'issued') 	, 0.192
+item: ('', 'issued', '5.0') 	, 0.192
+item: ('0.0', 'St') 	, 0.193
+item: ('', '0.0', 'St') 	, 0.193
+item: ('complete', '0.0', '8', 'wood frame (5)') 	, 0.194
+item: ('complete', '0.0', 'otc alterations permit', 'wood frame (5)') 	, 0.194
+item: ('complete', 'otc alterations permit', 'wood frame (5)', '0.0', '8') 	, 0.194
+item: ('5.0', 'complete', '0.0', 'wood frame (5)', '8') 	, 0.194
+item: ('5.0', 'complete', 'otc alterations permit', 'wood frame (5)', '0.0') 	, 0.194
+item: ('', 'complete', '0.0', 'wood frame (5)', '8') 	, 0.194
+item: ('', 'complete', 'otc alterations permit', 'wood frame (5)', '0.0') 	, 0.194
+item: ('', 'complete', 'otc alterations permit', 'wood frame (5)', '0.0', '8') 	, 0.194
+item: ('5.0', 'complete', 'otc alterations permit', 'wood frame (5)', '0.0', '8') 	, 0.194
+item: ('', '5.0', 'complete', '0.0', 'wood frame (5)', 'otc alterations permit') 	, 0.194
+item: ('5.0', '', 'complete', '0.0', 'wood frame (5)', '8') 	, 0.194
+item: ('', '5.0', 'complete', '0.0', 'wood frame (5)', 'otc alterations permit', '8') 	, 0.194
+item: ('0.0', 'wood frame (5)', 'complete') 	, 0.195
+item: ('5.0', 'complete', '0.0', 'wood frame (5)') 	, 0.195
+item: ('', 'complete', '0.0', 'wood frame (5)') 	, 0.195
+item: ('', '5.0', 'complete', '0.0', 'wood frame (5)') 	, 0.195
+item: ('5.0', 'complete', '0.0', '8') 	, 0.196
+item: ('5.0', 'complete', '0.0', 'otc alterations permit') 	, 0.196
+item: ('5.0', '', 'complete', '0.0', '8') 	, 0.196
+item: ('', '5.0', 'complete', 'otc alterations permit', '0.0') 	, 0.196
+item: ('5.0', 'complete', '0.0', 'otc alterations permit', '8') 	, 0.196
+item: ('5.0', '', 'complete', '0.0', 'otc alterations permit', '8') 	, 0.196
+item: ('', '8', 'Av') 	, 0.197
+item: ('', 'otc alterations permit', 'Av') 	, 0.197
+item: ('', 'Av', '8', 'otc alterations permit') 	, 0.197
+item: ('otc alterations permit', 'Av') 	, 0.197
+item: ('8', 'Av') 	, 0.197
+item: ('otc alterations permit', '8', 'Av') 	, 0.197
+item: ('5.0', '0.0', 'complete') 	, 0.197
+item: ('', '5.0', 'complete', '0.0') 	, 0.197
+item: ('complete', 'otc alterations permit', 'wood frame (5)', 'St') 	, 0.200
+item: ('complete', '8', 'wood frame (5)', 'St') 	, 0.200
+item: ('5.0', 'complete', 'otc alterations permit', 'wood frame (5)', 'St') 	, 0.200
+item: ('complete', 'otc alterations permit', 'wood frame (5)', 'St', '8') 	, 0.200
+item: ('5.0', 'complete', 'wood frame (5)', 'St', '8') 	, 0.200
+item: ('', 'complete', 'otc alterations permit', 'wood frame (5)', 'St') 	, 0.200
+item: ('', 'complete', 'wood frame (5)', 'St', '8') 	, 0.200
+item: ('5.0', '', 'complete', 'wood frame (5)', 'St', '8') 	, 0.200
+item: ('5.0', '', 'complete', 'otc alterations permit', 'wood frame (5)', 'St') 	, 0.200
+item: ('5.0', 'complete', 'otc alterations permit', 'wood frame (5)', 'St', '8') 	, 0.200
+item: ('', 'complete', 'otc alterations permit', 'wood frame (5)', 'St', '8') 	, 0.200
+item: ('5.0', '', 'complete', 'otc alterations permit', 'wood frame (5)', 'St', '8') 	, 0.200
+item: ('complete', 'otc alterations permit', '2.0', 'St') 	, 0.203
+item: ('complete', '8', '2.0', 'St') 	, 0.203
+item: ('complete', 'otc alterations permit', 'St', '8', '2.0') 	, 0.203
+item: ('', 'complete', 'otc alterations permit', 'St', '2.0') 	, 0.203
+item: ('', 'complete', 'St', '8', '2.0') 	, 0.203
+item: ('', 'complete', 'otc alterations permit', 'St', '8', '2.0') 	, 0.203
+item: ('5.0', 'complete', '8', 'St') 	, 0.205
+item: ('5.0', 'complete', 'otc alterations permit', 'St') 	, 0.205
+item: ('5.0', '', 'complete', 'otc alterations permit', 'St') 	, 0.205
+item: ('5.0', '', 'complete', 'St', '8') 	, 0.205
+item: ('5.0', 'complete', 'otc alterations permit', 'St', '8') 	, 0.205
+item: ('5.0', '', 'complete', 'otc alterations permit', 'St', '8') 	, 0.205
+item: ('1.0',) 	, 0.211
+item: ('', '1.0') 	, 0.211
+item: ('otc alterations permit', 'complete', '0.0') 	, 0.213
+item: ('8', 'complete', '0.0') 	, 0.213
+item: ('', 'complete', '0.0', '8') 	, 0.213
+item: ('', 'complete', '0.0', 'otc alterations permit') 	, 0.213
+item: ('complete', '0.0', 'otc alterations permit', '8') 	, 0.213
+item: ('', 'complete', '0.0', 'otc alterations permit', '8') 	, 0.213
+item: ('wood frame (5)', 'complete', 'St') 	, 0.214
+item: ('5.0', 'complete', 'wood frame (5)', 'St') 	, 0.214
+item: ('', 'complete', 'wood frame (5)', 'St') 	, 0.214
+item: ('5.0', '', 'complete', 'wood frame (5)', 'St') 	, 0.214
+item: ('0.0', 'complete') 	, 0.214
+item: ('', '0.0', 'complete') 	, 0.214
+item: ('2.0', 'wood frame (5)', 'St') 	, 0.217
+item: ('5.0', '2.0', 'wood frame (5)', 'St') 	, 0.217
+item: ('', '2.0', 'wood frame (5)', 'St') 	, 0.217
+item: ('5.0', '', 'wood frame (5)', 'St', '2.0') 	, 0.217
+item: ('', 'Av') 	, 0.217
+item: ('Av',) 	, 0.217
+item: ('5.0', 'complete', 'St') 	, 0.219
+item: ('5.0', '', 'complete', 'St') 	, 0.219
+item: ('5.0', '2.0', 'St') 	, 0.223
+item: ('', '5.0', '2.0', 'St') 	, 0.223
+item: ('2.0', 'complete', 'St') 	, 0.226
+item: ('', 'complete', '2.0', 'St') 	, 0.226
+item: ('otc alterations permit', '2.0', 'wood frame (5)') 	, 0.264
+item: ('8', '2.0', 'wood frame (5)') 	, 0.264
+item: ('otc alterations permit', '8', '2.0', 'wood frame (5)') 	, 0.264
+item: ('', '8', '2.0', 'wood frame (5)') 	, 0.264
+item: ('', 'otc alterations permit', '2.0', 'wood frame (5)') 	, 0.264
+item: ('5.0', '8', '2.0', 'wood frame (5)') 	, 0.264
+item: ('5.0', 'otc alterations permit', '2.0', 'wood frame (5)') 	, 0.264
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', '8', '2.0') 	, 0.264
+item: ('', '5.0', 'wood frame (5)', '8', '2.0') 	, 0.264
+item: ('', 'otc alterations permit', 'wood frame (5)', '8', '2.0') 	, 0.264
+item: ('5.0', '', 'otc alterations permit', 'wood frame (5)', '2.0') 	, 0.264
+item: ('5.0', '', 'otc alterations permit', 'wood frame (5)', '8', '2.0') 	, 0.264
+item: ('5.0', 'otc alterations permit', '2.0') 	, 0.271
+item: ('5.0', '8', '2.0') 	, 0.271
+item: ('', '5.0', 'otc alterations permit', '2.0') 	, 0.271
+item: ('', '5.0', '8', '2.0') 	, 0.271
+item: ('5.0', 'otc alterations permit', '8', '2.0') 	, 0.271
+item: ('5.0', '', 'otc alterations permit', '8', '2.0') 	, 0.271
+item: ('otc alterations permit', '2.0', 'complete') 	, 0.271
+item: ('8', '2.0', 'complete') 	, 0.271
+item: ('', 'complete', '8', '2.0') 	, 0.271
+item: ('', 'complete', 'otc alterations permit', '2.0') 	, 0.271
+item: ('complete', 'otc alterations permit', '8', '2.0') 	, 0.271
+item: ('', 'complete', 'otc alterations permit', '8', '2.0') 	, 0.271
+item: ('', 'issued', '8', 'St') 	, 0.276
+item: ('', 'otc alterations permit', 'issued', 'St') 	, 0.276
+item: ('', 'issued', 'St', 'otc alterations permit', '8') 	, 0.276
+item: ('8', 'issued', 'St') 	, 0.276
+item: ('otc alterations permit', 'issued', 'St') 	, 0.276
+item: ('otc alterations permit', 'issued', '8', 'St') 	, 0.276
+item: ('otc alterations permit', 'wood frame (5)', '0.0') 	, 0.286
+item: ('0.0', 'wood frame (5)', '8') 	, 0.286
+item: ('8', '0.0', 'otc alterations permit', 'wood frame (5)') 	, 0.286
+item: ('5.0', 'otc alterations permit', '0.0', 'wood frame (5)') 	, 0.286
+item: ('', 'otc alterations permit', '0.0', 'wood frame (5)') 	, 0.286
+item: ('', '8', '0.0', 'wood frame (5)') 	, 0.286
+item: ('5.0', '8', '0.0', 'wood frame (5)') 	, 0.286
+item: ('5.0', '', 'otc alterations permit', 'wood frame (5)', '0.0') 	, 0.286
+item: ('', 'otc alterations permit', 'wood frame (5)', '0.0', '8') 	, 0.286
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', '0.0', '8') 	, 0.286
+item: ('', '5.0', '0.0', 'wood frame (5)', '8') 	, 0.286
+item: ('5.0', '', 'otc alterations permit', 'wood frame (5)', '0.0', '8') 	, 0.286
+item: ('0.0', 'wood frame (5)') 	, 0.289
+item: ('', '0.0', 'wood frame (5)') 	, 0.289
+item: ('5.0', '0.0', 'wood frame (5)') 	, 0.289
+item: ('', '5.0', '0.0', 'wood frame (5)') 	, 0.289
+item: ('5.0', '0.0', '8') 	, 0.289
+item: ('5.0', '0.0', 'otc alterations permit') 	, 0.289
+item: ('5.0', '', 'otc alterations permit', '0.0') 	, 0.289
+item: ('5.0', '', '8', '0.0') 	, 0.289
+item: ('5.0', 'otc alterations permit', '8', '0.0') 	, 0.289
+item: ('5.0', '', 'otc alterations permit', '0.0', '8') 	, 0.289
+item: ('5.0', '0.0') 	, 0.292
+item: ('5.0', '0.0', '') 	, 0.292
+item: ('', 'issued', 'St') 	, 0.298
+item: ('issued', 'St') 	, 0.298
+item: ('2.0', 'complete') 	, 0.303
+item: ('', '2.0', 'complete') 	, 0.303
+item: ('otc alterations permit', 'complete', 'St') 	, 0.310
+item: ('8', 'complete', 'St') 	, 0.310
+item: ('', 'complete', '8', 'St') 	, 0.310
+item: ('', 'complete', 'otc alterations permit', 'St') 	, 0.310
+item: ('complete', '8', 'otc alterations permit', 'St') 	, 0.310
+item: ('', 'complete', 'otc alterations permit', 'St', '8') 	, 0.310
+item: ('8', 'wood frame (5)', 'St') 	, 0.315
+item: ('otc alterations permit', 'wood frame (5)', 'St') 	, 0.315
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', 'St') 	, 0.315
+item: ('5.0', '8', 'wood frame (5)', 'St') 	, 0.315
+item: ('otc alterations permit', '8', 'wood frame (5)', 'St') 	, 0.315
+item: ('', 'otc alterations permit', 'wood frame (5)', 'St') 	, 0.315
+item: ('', '8', 'wood frame (5)', 'St') 	, 0.315
+item: ('5.0', '', 'wood frame (5)', 'St', '8') 	, 0.315
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', 'St', '8') 	, 0.315
+item: ('', 'otc alterations permit', 'wood frame (5)', 'St', '8') 	, 0.315
+item: ('5.0', '', 'otc alterations permit', 'wood frame (5)', 'St') 	, 0.315
+item: ('5.0', '', 'otc alterations permit', 'wood frame (5)', 'St', '8') 	, 0.315
+item: ('otc alterations permit', '0.0') 	, 0.315
+item: ('8', '0.0') 	, 0.315
+item: ('', '0.0', 'otc alterations permit') 	, 0.315
+item: ('', '0.0', '8') 	, 0.315
+item: ('0.0', '8', 'otc alterations permit') 	, 0.315
+item: ('', 'otc alterations permit', '8', '0.0') 	, 0.315
+item: ('0.0',) 	, 0.318
+item: ('', '0.0') 	, 0.318
+item: ('2.0', 'wood frame (5)') 	, 0.329
+item: ('', '2.0', 'wood frame (5)') 	, 0.329
+item: ('5.0', '2.0', 'wood frame (5)') 	, 0.329
+item: ('', '5.0', '2.0', 'wood frame (5)') 	, 0.329
+item: ('otc alterations permit', 'wood frame (5)', 'complete') 	, 0.329
+item: ('8', 'wood frame (5)', 'complete') 	, 0.329
+item: ('complete', '8', 'otc alterations permit', 'wood frame (5)') 	, 0.329
+item: ('5.0', 'complete', '8', 'wood frame (5)') 	, 0.329
+item: ('5.0', 'complete', 'otc alterations permit', 'wood frame (5)') 	, 0.329
+item: ('', 'complete', '8', 'wood frame (5)') 	, 0.329
+item: ('', 'complete', 'otc alterations permit', 'wood frame (5)') 	, 0.329
+item: ('5.0', 'complete', 'otc alterations permit', 'wood frame (5)', '8') 	, 0.329
+item: ('5.0', '', 'complete', 'wood frame (5)', '8') 	, 0.329
+item: ('5.0', '', 'complete', 'otc alterations permit', 'wood frame (5)') 	, 0.329
+item: ('', 'complete', 'otc alterations permit', 'wood frame (5)', '8') 	, 0.329
+item: ('5.0', '', 'complete', 'otc alterations permit', 'wood frame (5)', '8') 	, 0.329
+item: ('complete', 'St') 	, 0.334
+item: ('', 'complete', 'St') 	, 0.334
+item: ('5.0', '8', 'complete') 	, 0.335
+item: ('5.0', 'otc alterations permit', 'complete') 	, 0.335
+item: ('5.0', 'complete', 'otc alterations permit', '8') 	, 0.335
+item: ('', '5.0', 'complete', 'otc alterations permit') 	, 0.335
+item: ('', '5.0', 'complete', '8') 	, 0.335
+item: ('5.0', '', 'complete', 'otc alterations permit', '8') 	, 0.335
+item: ('5.0', '2.0') 	, 0.337
+item: ('', '5.0', '2.0') 	, 0.337
+item: ('5.0', '8', 'St') 	, 0.341
+item: ('5.0', 'otc alterations permit', 'St') 	, 0.341
+item: ('5.0', 'otc alterations permit', '8', 'St') 	, 0.341
+item: ('', '5.0', 'otc alterations permit', 'St') 	, 0.341
+item: ('', '5.0', '8', 'St') 	, 0.341
+item: ('5.0', '', 'otc alterations permit', 'St', '8') 	, 0.341
+item: ('wood frame (5)', 'complete') 	, 0.350
+item: ('', 'wood frame (5)', 'complete') 	, 0.350
+item: ('5.0', 'wood frame (5)', 'complete') 	, 0.350
+item: ('', '5.0', 'complete', 'wood frame (5)') 	, 0.350
+item: ('5.0', 'complete') 	, 0.356
+item: ('', '5.0', 'complete') 	, 0.356
+item: ('otc alterations permit', '2.0', 'St') 	, 0.357
+item: ('8', '2.0', 'St') 	, 0.357
+item: ('', '8', '2.0', 'St') 	, 0.357
+item: ('', 'otc alterations permit', '2.0', 'St') 	, 0.357
+item: ('8', 'otc alterations permit', '2.0', 'St') 	, 0.357
+item: ('', 'otc alterations permit', 'St', '8', '2.0') 	, 0.357
+item: ('wood frame (5)', 'St') 	, 0.358
+item: ('5.0', 'wood frame (5)', 'St') 	, 0.358
+item: ('', 'wood frame (5)', 'St') 	, 0.358
+item: ('', '5.0', 'wood frame (5)', 'St') 	, 0.358
+item: ('5.0', 'St') 	, 0.386
+item: ('', '5.0', 'St') 	, 0.386
+item: ('', 'issued', 'otc alterations permit') 	, 0.388
+item: ('', 'issued', '8') 	, 0.388
+item: ('', '8', 'otc alterations permit', 'issued') 	, 0.388
+item: ('8', 'issued') 	, 0.388
+item: ('otc alterations permit', 'issued') 	, 0.388
+item: ('8', 'issued', 'otc alterations permit') 	, 0.388
+item: ('', 'issued') 	, 0.420
+item: ('issued',) 	, 0.420
+item: ('2.0', 'St') 	, 0.424
+item: ('', '2.0', 'St') 	, 0.424
+item: ('8', 'complete') 	, 0.455
+item: ('otc alterations permit', 'complete') 	, 0.455
+item: ('', '8', 'complete') 	, 0.455
+item: ('', 'otc alterations permit', 'complete') 	, 0.455
+item: ('8', 'complete', 'otc alterations permit') 	, 0.455
+item: ('', 'complete', 'otc alterations permit', '8') 	, 0.455
+item: ('otc alterations permit', '2.0') 	, 0.474
+item: ('8', '2.0') 	, 0.474
+item: ('8', '2.0', 'otc alterations permit') 	, 0.474
+item: ('', 'otc alterations permit', '2.0') 	, 0.474
+item: ('', '8', '2.0') 	, 0.474
+item: ('', 'otc alterations permit', '8', '2.0') 	, 0.474
+item: ('complete',) 	, 0.488
+item: ('', 'complete') 	, 0.488
+item: ('otc alterations permit', 'wood frame (5)') 	, 0.514
+item: ('8', 'wood frame (5)') 	, 0.514
+item: ('5.0', '8', 'wood frame (5)') 	, 0.514
+item: ('5.0', 'otc alterations permit', 'wood frame (5)') 	, 0.514
+item: ('', '8', 'wood frame (5)') 	, 0.514
+item: ('', 'otc alterations permit', 'wood frame (5)') 	, 0.514
+item: ('8', 'wood frame (5)', 'otc alterations permit') 	, 0.514
+item: ('5.0', '', 'otc alterations permit', 'wood frame (5)') 	, 0.514
+item: ('5.0', 'otc alterations permit', '8', 'wood frame (5)') 	, 0.514
+item: ('', 'otc alterations permit', '8', 'wood frame (5)') 	, 0.514
+item: ('', '5.0', '8', 'wood frame (5)') 	, 0.514
+item: ('5.0', '', 'otc alterations permit', 'wood frame (5)', '8') 	, 0.514
+item: ('5.0', 'otc alterations permit') 	, 0.547
+item: ('5.0', '8') 	, 0.547
+item: ('5.0', '8', 'otc alterations permit') 	, 0.547
+item: ('', '5.0', '8') 	, 0.547
+item: ('5.0', 'otc alterations permit', '') 	, 0.547
+item: ('5.0', '', 'otc alterations permit', '8') 	, 0.547
+item: ('2.0',) 	, 0.571
+item: ('', '2.0') 	, 0.571
+item: ('wood frame (5)',) 	, 0.582
+item: ('5.0', 'wood frame (5)') 	, 0.582
+item: ('', 'wood frame (5)') 	, 0.582
+item: ('5.0', '', 'wood frame (5)') 	, 0.582
+item: ('5.0',) 	, 0.616
+item: ('', '5.0') 	, 0.616
+item: ('', '8', 'St') 	, 0.626
+item: ('', 'otc alterations permit', 'St') 	, 0.626
+item: ('', 'otc alterations permit', '8', 'St') 	, 0.626
+item: ('8', 'St') 	, 0.626
+item: ('otc alterations permit', 'St') 	, 0.626
+item: ('otc alterations permit', '8', 'St') 	, 0.626
+item: ('', 'St') 	, 0.696
+item: ('St',) 	, 0.696
+item: ('', '8') 	, 0.899
+item: ('', 'otc alterations permit') 	, 0.899
+item: ('', '8', 'otc alterations permit') 	, 0.899
+item: ('8',) 	, 0.899
+item: ('otc alterations permit',) 	, 0.899
+item: ('8', 'otc alterations permit') 	, 0.899
+item: ('',) 	, 1.000
